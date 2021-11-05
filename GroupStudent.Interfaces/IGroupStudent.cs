@@ -19,7 +19,7 @@ namespace GroupStudent.Interfaces
     {
         Task<Student> GetCurrentStudentAsync(Guid id);
         Task<Stack<Student>> GetListStudentAsync();
-        void DeleteStudentAsync(Guid id);
+        Task DeleteStudentAsync(Guid id);
         Task<Student> AddOrUpdateStudentAsync(Student student);
     }
 }

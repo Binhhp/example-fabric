@@ -6,4 +6,3 @@ C:\Users\binhvt\source\repos\StudentServiceFabric\StudentDomain\obj\Debug\netsta
 C:\Users\binhvt\source\repos\StudentServiceFabric\StudentDomain\obj\Debug\netstandard2.1\StudentDomain.csproj.CoreCompileInputs.cache
 C:\Users\binhvt\source\repos\StudentServiceFabric\StudentDomain\obj\Debug\netstandard2.1\StudentDomain.dll
 C:\Users\binhvt\source\repos\StudentServiceFabric\StudentDomain\obj\Debug\netstandard2.1\StudentDomain.pdb
-C:\Users\binhvt\source\repos\StudentServiceFabric\StudentDomain\obj\Debug\netstandard2.1\StudentDomain.csprojAssemblyReference.cache

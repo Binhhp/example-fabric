@@ -23,7 +23,6 @@ namespace GroupStudent
     ///  - None: State is kept in memory only and not replicated.
     /// </remarks>
     [StatePersistence(StatePersistence.Persisted)]
-    [ActorService(Name = "GroupStudentActorService")]
     internal class GroupStudentActor : Actor, IGroupStudent
     {
         /// <summary>
@@ -83,11 +82,11 @@ namespace GroupStudent
             }
         }
 
-        public void DeleteStudentAsync(Guid studentId)
+        public async Task DeleteStudentAsync(Guid studentId)
         {
             Task deleteStateGroupStudent = new Task(() => StateManager.RemoveStateAsync(studentId.ToString()));
             Task deleteStateStudent = new Task(() => actorCreate(studentId).DeleteAsync(studentId, new CancellationToken()));
-            Task.WaitAll(deleteStateGroupStudent, deleteStateStudent);
+            await Task.WhenAll(deleteStateStudent, deleteStateGroupStudent);
         }
 
         public async Task<Student> AddOrUpdateStudentAsync(Student student)

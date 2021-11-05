@@ -1,5 +1,8 @@
 C:\Users\binhvt\source\repos\StudentServiceFabric\StudentWebUI\obj\Debug\netcoreapp3.1\win7-x64\PubTmp\Out\StudentActor.exe
+C:\Users\binhvt\source\repos\StudentServiceFabric\StudentWebUI\obj\Debug\netcoreapp3.1\win7-x64\PubTmp\Out\GroupStudent.exe
 C:\Users\binhvt\source\repos\StudentServiceFabric\StudentWebUI\obj\Debug\netcoreapp3.1\win7-x64\PubTmp\Out\StudentWebUI.exe
+C:\Users\binhvt\source\repos\StudentServiceFabric\StudentWebUI\obj\Debug\netcoreapp3.1\win7-x64\PubTmp\Out\GroupStudent.deps.json
+C:\Users\binhvt\source\repos\StudentServiceFabric\StudentWebUI\obj\Debug\netcoreapp3.1\win7-x64\PubTmp\Out\GroupStudent.runtimeconfig.json
 C:\Users\binhvt\source\repos\StudentServiceFabric\StudentWebUI\obj\Debug\netcoreapp3.1\win7-x64\PubTmp\Out\StudentActor.deps.json
 C:\Users\binhvt\source\repos\StudentServiceFabric\StudentWebUI\obj\Debug\netcoreapp3.1\win7-x64\PubTmp\Out\StudentActor.runtimeconfig.json
 C:\Users\binhvt\source\repos\StudentServiceFabric\StudentWebUI\obj\Debug\netcoreapp3.1\win7-x64\PubTmp\Out\appsettings.Development.json
@@ -344,6 +347,7 @@ C:\Users\binhvt\source\repos\StudentServiceFabric\StudentWebUI\obj\Debug\netcore
 C:\Users\binhvt\source\repos\StudentServiceFabric\StudentWebUI\obj\Debug\netcoreapp3.1\win7-x64\PubTmp\Out\System.Security.Permissions.dll
 C:\Users\binhvt\source\repos\StudentServiceFabric\StudentWebUI\obj\Debug\netcoreapp3.1\win7-x64\PubTmp\Out\System.Windows.Extensions.dll
 C:\Users\binhvt\source\repos\StudentServiceFabric\StudentWebUI\obj\Debug\netcoreapp3.1\win7-x64\PubTmp\Out\aspnetcorev2_inprocess.dll
+C:\Users\binhvt\source\repos\StudentServiceFabric\StudentWebUI\obj\Debug\netcoreapp3.1\win7-x64\PubTmp\Out\Faker.Net.Core.3.1.dll
 C:\Users\binhvt\source\repos\StudentServiceFabric\StudentWebUI\obj\Debug\netcoreapp3.1\win7-x64\PubTmp\Out\Microsoft.AspNetCore.NodeServices.dll
 C:\Users\binhvt\source\repos\StudentServiceFabric\StudentWebUI\obj\Debug\netcoreapp3.1\win7-x64\PubTmp\Out\Microsoft.AspNetCore.SpaServices.dll
 C:\Users\binhvt\source\repos\StudentServiceFabric\StudentWebUI\obj\Debug\netcoreapp3.1\win7-x64\PubTmp\Out\Microsoft.AspNetCore.SpaServices.Extensions.dll
@@ -382,9 +386,14 @@ C:\Users\binhvt\source\repos\StudentServiceFabric\StudentWebUI\obj\Debug\netcore
 C:\Users\binhvt\source\repos\StudentServiceFabric\StudentWebUI\obj\Debug\netcoreapp3.1\win7-x64\PubTmp\Out\Microsoft.ServiceFabric.Services.dll
 C:\Users\binhvt\source\repos\StudentServiceFabric\StudentWebUI\obj\Debug\netcoreapp3.1\win7-x64\PubTmp\Out\Microsoft.ServiceFabric.Services.Remoting.dll
 C:\Users\binhvt\source\repos\StudentServiceFabric\StudentWebUI\obj\Debug\netcoreapp3.1\win7-x64\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\binhvt\source\repos\StudentServiceFabric\StudentWebUI\obj\Debug\netcoreapp3.1\win7-x64\PubTmp\Out\de-DE\Faker.Net.Core.3.1.resources.dll
+C:\Users\binhvt\source\repos\StudentServiceFabric\StudentWebUI\obj\Debug\netcoreapp3.1\win7-x64\PubTmp\Out\GroupStudent.dll
+C:\Users\binhvt\source\repos\StudentServiceFabric\StudentWebUI\obj\Debug\netcoreapp3.1\win7-x64\PubTmp\Out\GroupStudent.Interfaces.dll
 C:\Users\binhvt\source\repos\StudentServiceFabric\StudentWebUI\obj\Debug\netcoreapp3.1\win7-x64\PubTmp\Out\StudentActor.dll
 C:\Users\binhvt\source\repos\StudentServiceFabric\StudentWebUI\obj\Debug\netcoreapp3.1\win7-x64\PubTmp\Out\StudentActor.Interfaces.dll
 C:\Users\binhvt\source\repos\StudentServiceFabric\StudentWebUI\obj\Debug\netcoreapp3.1\win7-x64\PubTmp\Out\StudentDomain.dll
+C:\Users\binhvt\source\repos\StudentServiceFabric\StudentWebUI\obj\Debug\netcoreapp3.1\win7-x64\PubTmp\Out\GroupStudent.Interfaces.pdb
+C:\Users\binhvt\source\repos\StudentServiceFabric\StudentWebUI\obj\Debug\netcoreapp3.1\win7-x64\PubTmp\Out\GroupStudent.pdb
 C:\Users\binhvt\source\repos\StudentServiceFabric\StudentWebUI\obj\Debug\netcoreapp3.1\win7-x64\PubTmp\Out\StudentActor.Interfaces.pdb
 C:\Users\binhvt\source\repos\StudentServiceFabric\StudentWebUI\obj\Debug\netcoreapp3.1\win7-x64\PubTmp\Out\StudentActor.pdb
 C:\Users\binhvt\source\repos\StudentServiceFabric\StudentWebUI\obj\Debug\netcoreapp3.1\win7-x64\PubTmp\Out\StudentDomain.pdb

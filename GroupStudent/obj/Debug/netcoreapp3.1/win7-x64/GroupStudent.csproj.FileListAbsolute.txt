@@ -263,12 +263,6 @@ C:\Users\binhvt\source\repos\StudentServiceFabric\GroupStudentService\obj\Debug\
 C:\Users\binhvt\source\repos\StudentServiceFabric\GroupStudentService\obj\Debug\netcoreapp3.1\win7-x64\GroupStudent.dll
 C:\Users\binhvt\source\repos\StudentServiceFabric\GroupStudentService\obj\Debug\netcoreapp3.1\win7-x64\GroupStudent.pdb
 C:\Users\binhvt\source\repos\StudentServiceFabric\GroupStudentService\obj\Debug\netcoreapp3.1\win7-x64\GroupStudent.genruntimeconfig.cache
-C:\Users\binhvt\source\repos\StudentServiceFabric\GroupStudent\obj\Debug\netcoreapp3.1\win7-x64\GroupStudent.csprojAssemblyReference.cache
-C:\Users\binhvt\source\repos\StudentServiceFabric\GroupStudent\obj\Debug\netcoreapp3.1\win7-x64\GroupStudent.AssemblyInfoInputs.cache
-C:\Users\binhvt\source\repos\StudentServiceFabric\GroupStudent\obj\Debug\netcoreapp3.1\win7-x64\GroupStudent.AssemblyInfo.cs
-C:\Users\binhvt\source\repos\StudentServiceFabric\GroupStudent\obj\Debug\netcoreapp3.1\win7-x64\GroupStudent.csproj.CoreCompileInputs.cache
-C:\Users\binhvt\source\repos\StudentServiceFabric\GroupStudent\obj\Debug\netcoreapp3.1\win7-x64\GroupStudent.dll
-C:\Users\binhvt\source\repos\StudentServiceFabric\GroupStudent\obj\Debug\netcoreapp3.1\win7-x64\GroupStudent.pdb
 C:\Users\binhvt\source\repos\StudentServiceFabric\GroupStudent\bin\Debug\netcoreapp3.1\win7-x64\StudentActor.deps.json
 C:\Users\binhvt\source\repos\StudentServiceFabric\GroupStudent\bin\Debug\netcoreapp3.1\win7-x64\StudentActor.runtimeconfig.json
 C:\Users\binhvt\source\repos\StudentServiceFabric\GroupStudent\bin\Debug\netcoreapp3.1\win7-x64\StudentActor.runtimeconfig.dev.json
@@ -526,5 +520,11 @@ C:\Users\binhvt\source\repos\StudentServiceFabric\GroupStudent\bin\Debug\netcore
 C:\Users\binhvt\source\repos\StudentServiceFabric\GroupStudent\bin\Debug\netcoreapp3.1\win7-x64\StudentActor.pdb
 C:\Users\binhvt\source\repos\StudentServiceFabric\GroupStudent\bin\Debug\netcoreapp3.1\win7-x64\StudentActor.Interfaces.pdb
 C:\Users\binhvt\source\repos\StudentServiceFabric\GroupStudent\bin\Debug\netcoreapp3.1\win7-x64\StudentDomain.pdb
+C:\Users\binhvt\source\repos\StudentServiceFabric\GroupStudent\obj\Debug\netcoreapp3.1\win7-x64\GroupStudent.csprojAssemblyReference.cache
+C:\Users\binhvt\source\repos\StudentServiceFabric\GroupStudent\obj\Debug\netcoreapp3.1\win7-x64\GroupStudent.AssemblyInfoInputs.cache
+C:\Users\binhvt\source\repos\StudentServiceFabric\GroupStudent\obj\Debug\netcoreapp3.1\win7-x64\GroupStudent.AssemblyInfo.cs
+C:\Users\binhvt\source\repos\StudentServiceFabric\GroupStudent\obj\Debug\netcoreapp3.1\win7-x64\GroupStudent.csproj.CoreCompileInputs.cache
 C:\Users\binhvt\source\repos\StudentServiceFabric\GroupStudent\obj\Debug\netcoreapp3.1\win7-x64\GroupStudent.csproj.CopyComplete
+C:\Users\binhvt\source\repos\StudentServiceFabric\GroupStudent\obj\Debug\netcoreapp3.1\win7-x64\GroupStudent.dll
+C:\Users\binhvt\source\repos\StudentServiceFabric\GroupStudent\obj\Debug\netcoreapp3.1\win7-x64\GroupStudent.pdb
 C:\Users\binhvt\source\repos\StudentServiceFabric\GroupStudent\obj\Debug\netcoreapp3.1\win7-x64\GroupStudent.genruntimeconfig.cache

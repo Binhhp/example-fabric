@@ -32,6 +32,7 @@
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\GroupStudent\GroupStudent.csproj" />
     <ProjectReference Include="..\StudentActor\StudentActor.csproj" />
     <ProjectReference Include="..\StudentWebUI\StudentWebUI.csproj" />
   </ItemGroup>

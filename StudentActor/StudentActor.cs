@@ -20,7 +20,6 @@ namespace StudentActor
     ///  - None: State is kept in memory only and not replicated.
     /// </remarks>
     [StatePersistence(StatePersistence.Persisted)]
-    [ActorService(Name = "StudentActorService")]
     internal class StudentActor : Actor, IStudentActor
     {
         public StudentActor(ActorService actorService, ActorId actorId) 

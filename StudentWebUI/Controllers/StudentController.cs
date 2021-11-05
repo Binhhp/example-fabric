@@ -19,7 +19,9 @@ namespace StudentWebUI.Controllers
         private readonly IGroupStudent actor;
         public StudentController()
         {
-            actor = (new StudentActorCreate(ActorIdConstant.DefaultID, FabricUriConstants.UriGroupStudentActor)).GetGroupStudent();
+            actor = (new StudentActorCreate(ActorIdConstant.DefaultID, 
+                FabricUriConstants.UriGroupStudentActor, true))
+                .GetGroupStudent();
         }
         [HttpGet]
         public async Task<IActionResult> GetStudent([FromQuery]string id, [FromQuery]string name)

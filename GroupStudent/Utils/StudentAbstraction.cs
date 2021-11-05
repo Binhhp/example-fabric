@@ -10,7 +10,7 @@ namespace GroupStudent.Utils
     {
         protected IStudentActor _student;
         protected IGroupStudent _groupStudent;
-        public StudentAbstraction(string id, string fabricUri)
+        public StudentAbstraction(string id, string fabricUri, bool isGroup = false)
         {
             var actor = new ActorId(id);
             _student = ActorProxy.Create<IStudentActor>(actor, new Uri(fabricUri));
