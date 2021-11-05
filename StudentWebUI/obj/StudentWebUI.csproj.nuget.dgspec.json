@@ -1,0 +1,493 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentWebUI\\StudentWebUI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\GroupStudent.Interfaces\\GroupStudent.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\GroupStudent.Interfaces\\GroupStudent.Interfaces.csproj",
+        "projectName": "GroupStudent.Interfaces",
+        "projectPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\GroupStudent.Interfaces\\GroupStudent.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\binhvt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\GroupStudent.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\binhvt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentDomain\\StudentDomain.csproj": {
+                "projectPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentDomain\\StudentDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.ServiceFabric.Actors": {
+              "target": "Package",
+              "version": "[5.2.1235, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\GroupStudent\\GroupStudent.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\GroupStudent\\GroupStudent.csproj",
+        "projectName": "GroupStudent",
+        "projectPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\GroupStudent\\GroupStudent.csproj",
+        "packagesPath": "C:\\Users\\binhvt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\GroupStudent\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\binhvt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\GroupStudent.Interfaces\\GroupStudent.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\GroupStudent.Interfaces\\GroupStudent.Interfaces.csproj"
+              },
+              "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentActor\\StudentActor.csproj": {
+                "projectPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentActor\\StudentActor.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Faker.Net": {
+              "target": "Package",
+              "version": "[1.5.150, )"
+            },
+            "Microsoft.ServiceFabric.Actors": {
+              "target": "Package",
+              "version": "[5.2.1235, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentActor.Interfaces\\StudentActor.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentActor.Interfaces\\StudentActor.Interfaces.csproj",
+        "projectName": "StudentActor.Interfaces",
+        "projectPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentActor.Interfaces\\StudentActor.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\binhvt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentActor.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\binhvt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentDomain\\StudentDomain.csproj": {
+                "projectPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentDomain\\StudentDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.ServiceFabric.Actors": {
+              "target": "Package",
+              "version": "[5.2.1235, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentActor\\StudentActor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentActor\\StudentActor.csproj",
+        "projectName": "StudentActor",
+        "projectPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentActor\\StudentActor.csproj",
+        "packagesPath": "C:\\Users\\binhvt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentActor\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\binhvt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentActor.Interfaces\\StudentActor.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentActor.Interfaces\\StudentActor.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Faker.Net": {
+              "target": "Package",
+              "version": "[1.5.150, )"
+            },
+            "Microsoft.ServiceFabric.Actors": {
+              "target": "Package",
+              "version": "[5.2.1235, )"
+            },
+            "System.Linq": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentDomain\\StudentDomain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentDomain\\StudentDomain.csproj",
+        "projectName": "StudentDomain",
+        "projectPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentDomain\\StudentDomain.csproj",
+        "packagesPath": "C:\\Users\\binhvt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentDomain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\binhvt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.ServiceFabric.Actors": {
+              "target": "Package",
+              "version": "[5.2.1235, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentWebUI\\StudentWebUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentWebUI\\StudentWebUI.csproj",
+        "projectName": "StudentWebUI",
+        "projectPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentWebUI\\StudentWebUI.csproj",
+        "packagesPath": "C:\\Users\\binhvt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentWebUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\binhvt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\GroupStudent.Interfaces\\GroupStudent.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\GroupStudent.Interfaces\\GroupStudent.Interfaces.csproj"
+              },
+              "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\GroupStudent\\GroupStudent.csproj": {
+                "projectPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\GroupStudent\\GroupStudent.csproj"
+              },
+              "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentActor.Interfaces\\StudentActor.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentActor.Interfaces\\StudentActor.Interfaces.csproj"
+              },
+              "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentActor\\StudentActor.csproj": {
+                "projectPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentActor\\StudentActor.csproj"
+              },
+              "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentDomain\\StudentDomain.csproj": {
+                "projectPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentDomain\\StudentDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.SpaServices": {
+              "target": "Package",
+              "version": "[3.1.20, )"
+            },
+            "Microsoft.AspNetCore.SpaServices.Extensions": {
+              "target": "Package",
+              "version": "[3.1.20, )"
+            },
+            "Microsoft.ServiceFabric.AspNetCore.Kestrel": {
+              "target": "Package",
+              "version": "[5.2.1235, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

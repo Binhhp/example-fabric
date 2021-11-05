@@ -1,0 +1,250 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1/win7-x64",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {},
+    ".NETCoreApp,Version=v3.1/win7-x64": {
+      "GroupStudent.Interfaces/1.0.0": {
+        "dependencies": {
+          "Microsoft.ServiceFabric.Actors": "5.2.1235",
+          "StudentDomain": "1.0.0"
+        },
+        "runtime": {
+          "GroupStudent.Interfaces.dll": {}
+        }
+      },
+      "Microsoft.ServiceFabric/8.2.1235": {
+        "dependencies": {
+          "System.Memory": "4.5.3"
+        },
+        "runtime": {
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Internal.Strings.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.0.0"
+          },
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Internal.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.0.0"
+          },
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Preview.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.0.0"
+          },
+          "runtimes/win/lib/netstandard2.0/StartupServicesModel.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.0.0"
+          },
+          "runtimes/win/lib/netstandard2.0/System.Fabric.Management.ServiceModel.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.0.0"
+          },
+          "runtimes/win/lib/netstandard2.0/System.Fabric.Strings.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.0.0"
+          },
+          "runtimes/win/lib/netstandard2.0/System.Fabric.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.0.0"
+          }
+        }
+      },
+      "Microsoft.ServiceFabric.Actors/5.2.1235": {
+        "dependencies": {
+          "Microsoft.ServiceFabric.Diagnostics.Internal": "5.2.1235",
+          "Microsoft.ServiceFabric.Services.Remoting": "5.2.1235"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.ServiceFabric.Actors.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "5.2.1.0"
+          }
+        }
+      },
+      "Microsoft.ServiceFabric.Data/5.2.1235": {
+        "dependencies": {
+          "Microsoft.ServiceFabric": "8.2.1235",
+          "Microsoft.ServiceFabric.Data.Extensions": "5.2.1235",
+          "Microsoft.ServiceFabric.Data.Interfaces": "5.2.1235"
+        },
+        "runtime": {
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Data.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.0.0"
+          }
+        }
+      },
+      "Microsoft.ServiceFabric.Data.Extensions/5.2.1235": {
+        "dependencies": {
+          "Microsoft.ServiceFabric": "8.2.1235",
+          "Microsoft.ServiceFabric.Data.Interfaces": "5.2.1235"
+        },
+        "runtime": {
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Data.Extensions.dll": {
+            "assemblyVersion": "1.4.5.0",
+            "fileVersion": "1.4.5.0"
+          },
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.ReliableCollection.Interop.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Microsoft.ServiceFabric.Data.Interfaces/5.2.1235": {
+        "dependencies": {
+          "Microsoft.ServiceFabric": "8.2.1235"
+        },
+        "runtime": {
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Data.Interfaces.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        }
+      },
+      "Microsoft.ServiceFabric.Diagnostics.Internal/5.2.1235": {
+        "dependencies": {
+          "Microsoft.ServiceFabric": "8.2.1235"
+        },
+        "runtime": {
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Diagnostics.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.0.0"
+          }
+        }
+      },
+      "Microsoft.ServiceFabric.FabricTransport.Internal/5.2.1235": {
+        "dependencies": {
+          "Microsoft.ServiceFabric": "8.2.1235"
+        },
+        "runtime": {
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.FabricTransport.V2.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.0.0"
+          },
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.FabricTransport.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.0.0"
+          }
+        }
+      },
+      "Microsoft.ServiceFabric.Services/5.2.1235": {
+        "dependencies": {
+          "Microsoft.ServiceFabric.Data": "5.2.1235",
+          "Microsoft.ServiceFabric.Diagnostics.Internal": "5.2.1235"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.ServiceFabric.Services.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "5.2.1.0"
+          }
+        }
+      },
+      "Microsoft.ServiceFabric.Services.Remoting/5.2.1235": {
+        "dependencies": {
+          "Microsoft.ServiceFabric.Diagnostics.Internal": "5.2.1235",
+          "Microsoft.ServiceFabric.FabricTransport.Internal": "5.2.1235",
+          "Microsoft.ServiceFabric.Services": "5.2.1235"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.ServiceFabric.Services.Remoting.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "5.2.1.0"
+          }
+        }
+      },
+      "System.Memory/4.5.3": {},
+      "StudentDomain/1.0.0": {
+        "dependencies": {
+          "Microsoft.ServiceFabric.Actors": "5.2.1235"
+        },
+        "runtime": {
+          "StudentDomain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GroupStudent.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.ServiceFabric/8.2.1235": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iyp5jdFLLsSVAnrZuzjW5Og+cjWLW6t+M1J3mMgDlQaEcByw0qv6tsw4VlROCaBARPvfx6lwB3GjZRvIzNBxng==",
+      "path": "microsoft.servicefabric/8.2.1235",
+      "hashPath": "microsoft.servicefabric.8.2.1235.nupkg.sha512"
+    },
+    "Microsoft.ServiceFabric.Actors/5.2.1235": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QIhQ8sIsmu1aypX5wYqs8JZPgZf2x4AIFap+GPu/w/D1hoMfOvX5CC08VScrMPkIVsny5X5sALRuWIR28S5nNQ==",
+      "path": "microsoft.servicefabric.actors/5.2.1235",
+      "hashPath": "microsoft.servicefabric.actors.5.2.1235.nupkg.sha512"
+    },
+    "Microsoft.ServiceFabric.Data/5.2.1235": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4TSyZj9fTjz3h/GVcOdr28KGeD3NbC+g5g2eWIrQ3MAMrsywUClKDI3PY5uWxrElk/Vnoz0H9MBNQjh8mkiFFQ==",
+      "path": "microsoft.servicefabric.data/5.2.1235",
+      "hashPath": "microsoft.servicefabric.data.5.2.1235.nupkg.sha512"
+    },
+    "Microsoft.ServiceFabric.Data.Extensions/5.2.1235": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bQZu3d/lS/fxLeYl02TA545nU/fpZ28BjSSmJzaOqLE7ajbI1Uwvq9Qv1tJYDZYp9EOjG2H3aKqFQlkiaX/roQ==",
+      "path": "microsoft.servicefabric.data.extensions/5.2.1235",
+      "hashPath": "microsoft.servicefabric.data.extensions.5.2.1235.nupkg.sha512"
+    },
+    "Microsoft.ServiceFabric.Data.Interfaces/5.2.1235": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yhsUk79oCNSzy31vg/FFhqijtKT+G4//VhunmhsYdLhY0pmPyZQzNKLYDC9QM3xZsWYGA/nO99nTaFY5/QlT6A==",
+      "path": "microsoft.servicefabric.data.interfaces/5.2.1235",
+      "hashPath": "microsoft.servicefabric.data.interfaces.5.2.1235.nupkg.sha512"
+    },
+    "Microsoft.ServiceFabric.Diagnostics.Internal/5.2.1235": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9ZQt7Ur50Pd5OyixZu7HkI1nSF7mrJqnxlSvimCRG+l1Wnx1D41xsssl1fjQGZyb8/SgVSFP1gHarxHm2WWVWw==",
+      "path": "microsoft.servicefabric.diagnostics.internal/5.2.1235",
+      "hashPath": "microsoft.servicefabric.diagnostics.internal.5.2.1235.nupkg.sha512"
+    },
+    "Microsoft.ServiceFabric.FabricTransport.Internal/5.2.1235": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4oftLQadMkhRw1r5ZHclWY6HhN6Uc2tfw1zn8qWUIQHTfZ3v+hrAoGXL/HJRhXGyparXrY6EYEKwcmnoD6sLsA==",
+      "path": "microsoft.servicefabric.fabrictransport.internal/5.2.1235",
+      "hashPath": "microsoft.servicefabric.fabrictransport.internal.5.2.1235.nupkg.sha512"
+    },
+    "Microsoft.ServiceFabric.Services/5.2.1235": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qESq6yYofBWaxGLVCZFdv1AH++ZiHfidlifJys+XmNM/r7CHS0ZbLkDnFqapbTyePeTltYTNaD6lTP2MR7y+lw==",
+      "path": "microsoft.servicefabric.services/5.2.1235",
+      "hashPath": "microsoft.servicefabric.services.5.2.1235.nupkg.sha512"
+    },
+    "Microsoft.ServiceFabric.Services.Remoting/5.2.1235": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PH4QPt/gG38PHDaC557Q1+IFbyVImdYL8FtE6MefsodATy+GIuELly/VDL3RpAyTZFfLZjYFid3TG35jRsd3cw==",
+      "path": "microsoft.servicefabric.services.remoting/5.2.1235",
+      "hashPath": "microsoft.servicefabric.services.remoting.5.2.1235.nupkg.sha512"
+    },
+    "System.Memory/4.5.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3oDzvc/zzetpTKWMShs1AADwZjQ/36HnsufHRPcOjyRAAMLDlu2iD33MBI2opxnezcVUtXyqDXXjoFMOU9c7SA==",
+      "path": "system.memory/4.5.3",
+      "hashPath": "system.memory.4.5.3.nupkg.sha512"
+    },
+    "StudentDomain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

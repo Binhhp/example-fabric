@@ -1,0 +1,8 @@
+C:\Users\binhvt\source\repos\StudentServiceFabric\StudentWebUI\obj\Debug\netcoreapp3.1\win7-x64\StudentWebUI.csprojAssemblyReference.cache
+C:\Users\binhvt\source\repos\StudentServiceFabric\StudentWebUI\obj\Debug\netcoreapp3.1\win7-x64\StudentWebUI.AssemblyInfoInputs.cache
+C:\Users\binhvt\source\repos\StudentServiceFabric\StudentWebUI\obj\Debug\netcoreapp3.1\win7-x64\StudentWebUI.AssemblyInfo.cs
+C:\Users\binhvt\source\repos\StudentServiceFabric\StudentWebUI\obj\Debug\netcoreapp3.1\win7-x64\StudentWebUI.csproj.CoreCompileInputs.cache
+C:\Users\binhvt\source\repos\StudentServiceFabric\StudentWebUI\obj\Debug\netcoreapp3.1\win7-x64\StudentWebUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\binhvt\source\repos\StudentServiceFabric\StudentWebUI\obj\Debug\netcoreapp3.1\win7-x64\StudentWebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\binhvt\source\repos\StudentServiceFabric\StudentWebUI\obj\Debug\netcoreapp3.1\win7-x64\StudentWebUI.dll
+C:\Users\binhvt\source\repos\StudentServiceFabric\StudentWebUI\obj\Debug\netcoreapp3.1\win7-x64\StudentWebUI.pdb
