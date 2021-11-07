@@ -1,0 +1,161 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Binhh\\Máy tính\\example-fabric\\Student.Subjects\\Student.Subjects.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Binhh\\Máy tính\\example-fabric\\Student.Subjects\\Student.Subjects.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Binhh\\Máy tính\\example-fabric\\Student.Subjects\\Student.Subjects.csproj",
+        "projectName": "Student.Subjects",
+        "projectPath": "C:\\Users\\Binhh\\Máy tính\\example-fabric\\Student.Subjects\\Student.Subjects.csproj",
+        "packagesPath": "C:\\Users\\Binhh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Binhh\\Máy tính\\example-fabric\\Student.Subjects\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Binhh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentDomain\\StudentDomain.csproj": {
+                "projectPath": "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentDomain\\StudentDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.ServiceFabric.Services": {
+              "target": "Package",
+              "version": "[5.2.1235, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[6.0.0-rc.2.21480.10, 6.0.0-rc.2.21480.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[6.0.0-rc.2.21480.5, 6.0.0-rc.2.21480.5]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[6.0.0-rc.2.21501.6, 6.0.0-rc.2.21501.6]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentDomain\\StudentDomain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentDomain\\StudentDomain.csproj",
+        "projectName": "StudentDomain",
+        "projectPath": "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentDomain\\StudentDomain.csproj",
+        "packagesPath": "C:\\Users\\Binhh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentDomain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Binhh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.ServiceFabric.Actors": {
+              "target": "Package",
+              "version": "[5.2.1235, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

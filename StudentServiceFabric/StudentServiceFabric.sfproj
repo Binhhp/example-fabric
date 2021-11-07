@@ -32,9 +32,7 @@
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\GroupStudent\GroupStudent.csproj" />
-    <ProjectReference Include="..\StudentActor\StudentActor.csproj" />
-    <ProjectReference Include="..\StudentWebUI\StudentWebUI.csproj" />
+    <ProjectReference Include="..\Student.Subjects\Student.Subjects.csproj" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />
   <PropertyGroup>

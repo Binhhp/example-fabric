@@ -6,3 +6,12 @@ C:\Users\binhvt\source\repos\StudentServiceFabric\StudentDomain\obj\Debug\netsta
 C:\Users\binhvt\source\repos\StudentServiceFabric\StudentDomain\obj\Debug\netstandard2.1\StudentDomain.csproj.CoreCompileInputs.cache
 C:\Users\binhvt\source\repos\StudentServiceFabric\StudentDomain\obj\Debug\netstandard2.1\StudentDomain.dll
 C:\Users\binhvt\source\repos\StudentServiceFabric\StudentDomain\obj\Debug\netstandard2.1\StudentDomain.pdb
+C:\Users\Binhh\Máy tính\example-fabric\StudentDomain\bin\Debug\netstandard2.1\StudentDomain.deps.json
+C:\Users\Binhh\Máy tính\example-fabric\StudentDomain\bin\Debug\netstandard2.1\StudentDomain.dll
+C:\Users\Binhh\Máy tính\example-fabric\StudentDomain\bin\Debug\netstandard2.1\StudentDomain.pdb
+C:\Users\Binhh\Máy tính\example-fabric\StudentDomain\obj\Debug\netstandard2.1\StudentDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Binhh\Máy tính\example-fabric\StudentDomain\obj\Debug\netstandard2.1\StudentDomain.AssemblyInfoInputs.cache
+C:\Users\Binhh\Máy tính\example-fabric\StudentDomain\obj\Debug\netstandard2.1\StudentDomain.AssemblyInfo.cs
+C:\Users\Binhh\Máy tính\example-fabric\StudentDomain\obj\Debug\netstandard2.1\StudentDomain.csproj.CoreCompileInputs.cache
+C:\Users\Binhh\Máy tính\example-fabric\StudentDomain\obj\Debug\netstandard2.1\StudentDomain.dll
+C:\Users\Binhh\Máy tính\example-fabric\StudentDomain\obj\Debug\netstandard2.1\StudentDomain.pdb

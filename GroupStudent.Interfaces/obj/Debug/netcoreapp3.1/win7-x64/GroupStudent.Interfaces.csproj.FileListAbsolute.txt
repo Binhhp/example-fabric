@@ -10,3 +10,16 @@ C:\Users\binhvt\source\repos\StudentServiceFabric\GroupStudent.Interfaces\obj\De
 C:\Users\binhvt\source\repos\StudentServiceFabric\GroupStudent.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\GroupStudent.Interfaces.csproj.CopyComplete
 C:\Users\binhvt\source\repos\StudentServiceFabric\GroupStudent.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\GroupStudent.Interfaces.dll
 C:\Users\binhvt\source\repos\StudentServiceFabric\GroupStudent.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\GroupStudent.Interfaces.pdb
+C:\Users\Binhh\Máy tính\example-fabric\GroupStudent.Interfaces\bin\Debug\netcoreapp3.1\win7-x64\GroupStudent.Interfaces.deps.json
+C:\Users\Binhh\Máy tính\example-fabric\GroupStudent.Interfaces\bin\Debug\netcoreapp3.1\win7-x64\GroupStudent.Interfaces.dll
+C:\Users\Binhh\Máy tính\example-fabric\GroupStudent.Interfaces\bin\Debug\netcoreapp3.1\win7-x64\GroupStudent.Interfaces.pdb
+C:\Users\Binhh\Máy tính\example-fabric\GroupStudent.Interfaces\bin\Debug\netcoreapp3.1\win7-x64\StudentDomain.dll
+C:\Users\Binhh\Máy tính\example-fabric\GroupStudent.Interfaces\bin\Debug\netcoreapp3.1\win7-x64\StudentDomain.pdb
+C:\Users\Binhh\Máy tính\example-fabric\GroupStudent.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\GroupStudent.Interfaces.csproj.AssemblyReference.cache
+C:\Users\Binhh\Máy tính\example-fabric\GroupStudent.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\GroupStudent.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Binhh\Máy tính\example-fabric\GroupStudent.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\GroupStudent.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Binhh\Máy tính\example-fabric\GroupStudent.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\GroupStudent.Interfaces.AssemblyInfo.cs
+C:\Users\Binhh\Máy tính\example-fabric\GroupStudent.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\GroupStudent.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Binhh\Máy tính\example-fabric\GroupStudent.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\GroupStudent.Interfaces.csproj.CopyComplete
+C:\Users\Binhh\Máy tính\example-fabric\GroupStudent.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\GroupStudent.Interfaces.dll
+C:\Users\Binhh\Máy tính\example-fabric\GroupStudent.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\GroupStudent.Interfaces.pdb

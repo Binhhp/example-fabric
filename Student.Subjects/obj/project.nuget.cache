@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "X/1//ELEOTD2A/e/kh1w6Q7rPRE4WfPCsySU0/LXSSigHAqB5zKFmT9rIjCDclU2qa3eUAPq0uYHeL1KbIrd8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Binhh\\Máy tính\\example-fabric\\Student.Subjects\\Student.Subjects.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Binhh\\.nuget\\packages\\microsoft.servicefabric\\8.2.1235\\microsoft.servicefabric.8.2.1235.nupkg.sha512",
+    "C:\\Users\\Binhh\\.nuget\\packages\\microsoft.servicefabric.actors\\5.2.1235\\microsoft.servicefabric.actors.5.2.1235.nupkg.sha512",
+    "C:\\Users\\Binhh\\.nuget\\packages\\microsoft.servicefabric.data\\5.2.1235\\microsoft.servicefabric.data.5.2.1235.nupkg.sha512",
+    "C:\\Users\\Binhh\\.nuget\\packages\\microsoft.servicefabric.data.extensions\\5.2.1235\\microsoft.servicefabric.data.extensions.5.2.1235.nupkg.sha512",
+    "C:\\Users\\Binhh\\.nuget\\packages\\microsoft.servicefabric.data.interfaces\\5.2.1235\\microsoft.servicefabric.data.interfaces.5.2.1235.nupkg.sha512",
+    "C:\\Users\\Binhh\\.nuget\\packages\\microsoft.servicefabric.diagnostics.internal\\5.2.1235\\microsoft.servicefabric.diagnostics.internal.5.2.1235.nupkg.sha512",
+    "C:\\Users\\Binhh\\.nuget\\packages\\microsoft.servicefabric.fabrictransport.internal\\5.2.1235\\microsoft.servicefabric.fabrictransport.internal.5.2.1235.nupkg.sha512",
+    "C:\\Users\\Binhh\\.nuget\\packages\\microsoft.servicefabric.services\\5.2.1235\\microsoft.servicefabric.services.5.2.1235.nupkg.sha512",
+    "C:\\Users\\Binhh\\.nuget\\packages\\microsoft.servicefabric.services.remoting\\5.2.1235\\microsoft.servicefabric.services.remoting.5.2.1235.nupkg.sha512",
+    "C:\\Users\\Binhh\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Binhh\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.0-rc.2.21480.5\\microsoft.netcore.app.runtime.win-x64.6.0.0-rc.2.21480.5.nupkg.sha512",
+    "C:\\Users\\Binhh\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.0-rc.2.21480.10\\microsoft.aspnetcore.app.runtime.win-x64.6.0.0-rc.2.21480.10.nupkg.sha512",
+    "C:\\Users\\Binhh\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.0-rc.2.21501.6\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.0-rc.2.21501.6.nupkg.sha512"
+  ],
+  "logs": []
+}

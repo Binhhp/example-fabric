@@ -1,22 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "DB5a1qcTI/bGnqzFY9BqWL1D65c8skwy2Nz5CPAMiFXVbirNLk1nD9D+2I3sCVcb57tLdSMrC3YfMmqX2563jg==",
+  "dgSpecHash": "ffUEyk8HbQbHJS0rQFOpoATQTTH7ODwE4Qe9aLwNAn2VOBt8XjABhe+CncxO2EssG02pE9M0izcsrNTbUe978Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentDomain\\StudentDomain.csproj",
+  "projectFilePath": "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentDomain\\StudentDomain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\binhvt\\.nuget\\packages\\microsoft.servicefabric\\8.2.1235\\microsoft.servicefabric.8.2.1235.nupkg.sha512",
-    "C:\\Users\\binhvt\\.nuget\\packages\\microsoft.servicefabric.actors\\5.2.1235\\microsoft.servicefabric.actors.5.2.1235.nupkg.sha512",
-    "C:\\Users\\binhvt\\.nuget\\packages\\microsoft.servicefabric.data\\5.2.1235\\microsoft.servicefabric.data.5.2.1235.nupkg.sha512",
-    "C:\\Users\\binhvt\\.nuget\\packages\\microsoft.servicefabric.data.extensions\\5.2.1235\\microsoft.servicefabric.data.extensions.5.2.1235.nupkg.sha512",
-    "C:\\Users\\binhvt\\.nuget\\packages\\microsoft.servicefabric.data.interfaces\\5.2.1235\\microsoft.servicefabric.data.interfaces.5.2.1235.nupkg.sha512",
-    "C:\\Users\\binhvt\\.nuget\\packages\\microsoft.servicefabric.diagnostics.internal\\5.2.1235\\microsoft.servicefabric.diagnostics.internal.5.2.1235.nupkg.sha512",
-    "C:\\Users\\binhvt\\.nuget\\packages\\microsoft.servicefabric.fabrictransport.internal\\5.2.1235\\microsoft.servicefabric.fabrictransport.internal.5.2.1235.nupkg.sha512",
-    "C:\\Users\\binhvt\\.nuget\\packages\\microsoft.servicefabric.services\\5.2.1235\\microsoft.servicefabric.services.5.2.1235.nupkg.sha512",
-    "C:\\Users\\binhvt\\.nuget\\packages\\microsoft.servicefabric.services.remoting\\5.2.1235\\microsoft.servicefabric.services.remoting.5.2.1235.nupkg.sha512",
-    "C:\\Users\\binhvt\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
-    "C:\\Users\\binhvt\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
-    "C:\\Users\\binhvt\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
-    "C:\\Users\\binhvt\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+    "C:\\Users\\Binhh\\.nuget\\packages\\microsoft.servicefabric\\8.2.1235\\microsoft.servicefabric.8.2.1235.nupkg.sha512",
+    "C:\\Users\\Binhh\\.nuget\\packages\\microsoft.servicefabric.actors\\5.2.1235\\microsoft.servicefabric.actors.5.2.1235.nupkg.sha512",
+    "C:\\Users\\Binhh\\.nuget\\packages\\microsoft.servicefabric.data\\5.2.1235\\microsoft.servicefabric.data.5.2.1235.nupkg.sha512",
+    "C:\\Users\\Binhh\\.nuget\\packages\\microsoft.servicefabric.data.extensions\\5.2.1235\\microsoft.servicefabric.data.extensions.5.2.1235.nupkg.sha512",
+    "C:\\Users\\Binhh\\.nuget\\packages\\microsoft.servicefabric.data.interfaces\\5.2.1235\\microsoft.servicefabric.data.interfaces.5.2.1235.nupkg.sha512",
+    "C:\\Users\\Binhh\\.nuget\\packages\\microsoft.servicefabric.diagnostics.internal\\5.2.1235\\microsoft.servicefabric.diagnostics.internal.5.2.1235.nupkg.sha512",
+    "C:\\Users\\Binhh\\.nuget\\packages\\microsoft.servicefabric.fabrictransport.internal\\5.2.1235\\microsoft.servicefabric.fabrictransport.internal.5.2.1235.nupkg.sha512",
+    "C:\\Users\\Binhh\\.nuget\\packages\\microsoft.servicefabric.services\\5.2.1235\\microsoft.servicefabric.services.5.2.1235.nupkg.sha512",
+    "C:\\Users\\Binhh\\.nuget\\packages\\microsoft.servicefabric.services.remoting\\5.2.1235\\microsoft.servicefabric.services.remoting.5.2.1235.nupkg.sha512",
+    "C:\\Users\\Binhh\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\Binhh\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Binhh\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\Binhh\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
   ],
   "logs": []
 }

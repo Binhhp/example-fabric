@@ -1,27 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentDomain\\StudentDomain.csproj": {}
+    "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentDomain\\StudentDomain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentDomain\\StudentDomain.csproj": {
+    "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentDomain\\StudentDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentDomain\\StudentDomain.csproj",
+        "projectUniqueName": "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentDomain\\StudentDomain.csproj",
         "projectName": "StudentDomain",
-        "projectPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentDomain\\StudentDomain.csproj",
-        "packagesPath": "C:\\Users\\binhvt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentDomain\\obj\\",
+        "projectPath": "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentDomain\\StudentDomain.csproj",
+        "packagesPath": "C:\\Users\\Binhh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentDomain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\binhvt\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Binhh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
         }
       }
     }

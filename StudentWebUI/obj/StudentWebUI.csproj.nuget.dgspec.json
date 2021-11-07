@@ -1,35 +1,40 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentWebUI\\StudentWebUI.csproj": {}
+    "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentWebUI\\StudentWebUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\GroupStudent.Interfaces\\GroupStudent.Interfaces.csproj": {
+    "C:\\Users\\Binhh\\Máy tính\\example-fabric\\GroupStudent.Interfaces\\GroupStudent.Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\GroupStudent.Interfaces\\GroupStudent.Interfaces.csproj",
+        "projectUniqueName": "C:\\Users\\Binhh\\Máy tính\\example-fabric\\GroupStudent.Interfaces\\GroupStudent.Interfaces.csproj",
         "projectName": "GroupStudent.Interfaces",
-        "projectPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\GroupStudent.Interfaces\\GroupStudent.Interfaces.csproj",
-        "packagesPath": "C:\\Users\\binhvt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\GroupStudent.Interfaces\\obj\\",
+        "projectPath": "C:\\Users\\Binhh\\Máy tính\\example-fabric\\GroupStudent.Interfaces\\GroupStudent.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\Binhh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Binhh\\Máy tính\\example-fabric\\GroupStudent.Interfaces\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\binhvt\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Binhh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentDomain\\StudentDomain.csproj": {
-                "projectPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentDomain\\StudentDomain.csproj"
+              "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentDomain\\StudentDomain.csproj": {
+                "projectPath": "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentDomain\\StudentDomain.csproj"
               }
             }
           }
@@ -64,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -73,35 +78,40 @@
         }
       }
     },
-    "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\GroupStudent\\GroupStudent.csproj": {
+    "C:\\Users\\Binhh\\Máy tính\\example-fabric\\GroupStudent\\GroupStudent.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\GroupStudent\\GroupStudent.csproj",
+        "projectUniqueName": "C:\\Users\\Binhh\\Máy tính\\example-fabric\\GroupStudent\\GroupStudent.csproj",
         "projectName": "GroupStudent",
-        "projectPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\GroupStudent\\GroupStudent.csproj",
-        "packagesPath": "C:\\Users\\binhvt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\GroupStudent\\obj\\",
+        "projectPath": "C:\\Users\\Binhh\\Máy tính\\example-fabric\\GroupStudent\\GroupStudent.csproj",
+        "packagesPath": "C:\\Users\\Binhh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Binhh\\Máy tính\\example-fabric\\GroupStudent\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\binhvt\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Binhh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\GroupStudent.Interfaces\\GroupStudent.Interfaces.csproj": {
-                "projectPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\GroupStudent.Interfaces\\GroupStudent.Interfaces.csproj"
+              "C:\\Users\\Binhh\\Máy tính\\example-fabric\\GroupStudent.Interfaces\\GroupStudent.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Binhh\\Máy tính\\example-fabric\\GroupStudent.Interfaces\\GroupStudent.Interfaces.csproj"
               },
-              "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentActor\\StudentActor.csproj": {
-                "projectPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentActor\\StudentActor.csproj"
+              "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentActor\\StudentActor.csproj": {
+                "projectPath": "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentActor\\StudentActor.csproj"
               }
             }
           }
@@ -154,7 +164,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -163,32 +173,37 @@
         }
       }
     },
-    "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentActor.Interfaces\\StudentActor.Interfaces.csproj": {
+    "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentActor.Interfaces\\StudentActor.Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentActor.Interfaces\\StudentActor.Interfaces.csproj",
+        "projectUniqueName": "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentActor.Interfaces\\StudentActor.Interfaces.csproj",
         "projectName": "StudentActor.Interfaces",
-        "projectPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentActor.Interfaces\\StudentActor.Interfaces.csproj",
-        "packagesPath": "C:\\Users\\binhvt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentActor.Interfaces\\obj\\",
+        "projectPath": "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentActor.Interfaces\\StudentActor.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\Binhh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentActor.Interfaces\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\binhvt\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Binhh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentDomain\\StudentDomain.csproj": {
-                "projectPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentDomain\\StudentDomain.csproj"
+              "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentDomain\\StudentDomain.csproj": {
+                "projectPath": "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentDomain\\StudentDomain.csproj"
               }
             }
           }
@@ -223,7 +238,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -232,32 +247,37 @@
         }
       }
     },
-    "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentActor\\StudentActor.csproj": {
+    "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentActor\\StudentActor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentActor\\StudentActor.csproj",
+        "projectUniqueName": "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentActor\\StudentActor.csproj",
         "projectName": "StudentActor",
-        "projectPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentActor\\StudentActor.csproj",
-        "packagesPath": "C:\\Users\\binhvt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentActor\\obj\\",
+        "projectPath": "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentActor\\StudentActor.csproj",
+        "packagesPath": "C:\\Users\\Binhh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentActor\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\binhvt\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Binhh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentActor.Interfaces\\StudentActor.Interfaces.csproj": {
-                "projectPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentActor.Interfaces\\StudentActor.Interfaces.csproj"
+              "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentActor.Interfaces\\StudentActor.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentActor.Interfaces\\StudentActor.Interfaces.csproj"
               }
             }
           }
@@ -314,7 +334,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -323,24 +343,29 @@
         }
       }
     },
-    "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentDomain\\StudentDomain.csproj": {
+    "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentDomain\\StudentDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentDomain\\StudentDomain.csproj",
+        "projectUniqueName": "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentDomain\\StudentDomain.csproj",
         "projectName": "StudentDomain",
-        "projectPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentDomain\\StudentDomain.csproj",
-        "packagesPath": "C:\\Users\\binhvt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentDomain\\obj\\",
+        "projectPath": "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentDomain\\StudentDomain.csproj",
+        "packagesPath": "C:\\Users\\Binhh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentDomain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\binhvt\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Binhh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -379,48 +404,53 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentWebUI\\StudentWebUI.csproj": {
+    "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentWebUI\\StudentWebUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentWebUI\\StudentWebUI.csproj",
+        "projectUniqueName": "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentWebUI\\StudentWebUI.csproj",
         "projectName": "StudentWebUI",
-        "projectPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentWebUI\\StudentWebUI.csproj",
-        "packagesPath": "C:\\Users\\binhvt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentWebUI\\obj\\",
+        "projectPath": "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentWebUI\\StudentWebUI.csproj",
+        "packagesPath": "C:\\Users\\Binhh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentWebUI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\binhvt\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Binhh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\GroupStudent.Interfaces\\GroupStudent.Interfaces.csproj": {
-                "projectPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\GroupStudent.Interfaces\\GroupStudent.Interfaces.csproj"
+              "C:\\Users\\Binhh\\Máy tính\\example-fabric\\GroupStudent.Interfaces\\GroupStudent.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Binhh\\Máy tính\\example-fabric\\GroupStudent.Interfaces\\GroupStudent.Interfaces.csproj"
               },
-              "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\GroupStudent\\GroupStudent.csproj": {
-                "projectPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\GroupStudent\\GroupStudent.csproj"
+              "C:\\Users\\Binhh\\Máy tính\\example-fabric\\GroupStudent\\GroupStudent.csproj": {
+                "projectPath": "C:\\Users\\Binhh\\Máy tính\\example-fabric\\GroupStudent\\GroupStudent.csproj"
               },
-              "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentActor.Interfaces\\StudentActor.Interfaces.csproj": {
-                "projectPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentActor.Interfaces\\StudentActor.Interfaces.csproj"
+              "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentActor.Interfaces\\StudentActor.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentActor.Interfaces\\StudentActor.Interfaces.csproj"
               },
-              "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentActor\\StudentActor.csproj": {
-                "projectPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentActor\\StudentActor.csproj"
+              "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentActor\\StudentActor.csproj": {
+                "projectPath": "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentActor\\StudentActor.csproj"
               },
-              "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentDomain\\StudentDomain.csproj": {
-                "projectPath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentDomain\\StudentDomain.csproj"
+              "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentDomain\\StudentDomain.csproj": {
+                "projectPath": "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentDomain\\StudentDomain.csproj"
               }
             }
           }
@@ -480,7 +510,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

@@ -1,1 +1,2 @@
 C:\Users\binhvt\source\repos\StudentServiceFabric\StudentServiceFabric\obj\x64\Debug\StudentServiceFabric.sfproj.CoreCompileInputs.cache
+C:\Users\Binhh\Máy tính\example-fabric\StudentServiceFabric\obj\x64\Debug\StudentServiceFabric.sfproj.CoreCompileInputs.cache

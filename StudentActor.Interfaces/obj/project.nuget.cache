@@ -1,19 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "aq6AGKWoacZFVgMy1U9rfORDASh3r/iVdrI9pKcER55TvesCbwe8TWwGOZ94SCzCwbg1gVHbn4Jd7SGaiJpKEw==",
+  "dgSpecHash": "7wLqDganYZDoQrzxQEHe3ULLo6ay4YMto4Ro/X+ItEuFYXyfRAJCb8zD/7eSbYYceZl4zpCMowXyyZizVN51qA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\binhvt\\source\\repos\\StudentServiceFabric\\StudentActor.Interfaces\\StudentActor.Interfaces.csproj",
+  "projectFilePath": "C:\\Users\\Binhh\\Máy tính\\example-fabric\\StudentActor.Interfaces\\StudentActor.Interfaces.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\binhvt\\.nuget\\packages\\microsoft.servicefabric\\8.2.1235\\microsoft.servicefabric.8.2.1235.nupkg.sha512",
-    "C:\\Users\\binhvt\\.nuget\\packages\\microsoft.servicefabric.actors\\5.2.1235\\microsoft.servicefabric.actors.5.2.1235.nupkg.sha512",
-    "C:\\Users\\binhvt\\.nuget\\packages\\microsoft.servicefabric.data\\5.2.1235\\microsoft.servicefabric.data.5.2.1235.nupkg.sha512",
-    "C:\\Users\\binhvt\\.nuget\\packages\\microsoft.servicefabric.data.extensions\\5.2.1235\\microsoft.servicefabric.data.extensions.5.2.1235.nupkg.sha512",
-    "C:\\Users\\binhvt\\.nuget\\packages\\microsoft.servicefabric.data.interfaces\\5.2.1235\\microsoft.servicefabric.data.interfaces.5.2.1235.nupkg.sha512",
-    "C:\\Users\\binhvt\\.nuget\\packages\\microsoft.servicefabric.diagnostics.internal\\5.2.1235\\microsoft.servicefabric.diagnostics.internal.5.2.1235.nupkg.sha512",
-    "C:\\Users\\binhvt\\.nuget\\packages\\microsoft.servicefabric.fabrictransport.internal\\5.2.1235\\microsoft.servicefabric.fabrictransport.internal.5.2.1235.nupkg.sha512",
-    "C:\\Users\\binhvt\\.nuget\\packages\\microsoft.servicefabric.services\\5.2.1235\\microsoft.servicefabric.services.5.2.1235.nupkg.sha512",
-    "C:\\Users\\binhvt\\.nuget\\packages\\microsoft.servicefabric.services.remoting\\5.2.1235\\microsoft.servicefabric.services.remoting.5.2.1235.nupkg.sha512",
-    "C:\\Users\\binhvt\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+    "C:\\Users\\Binhh\\.nuget\\packages\\microsoft.servicefabric\\8.2.1235\\microsoft.servicefabric.8.2.1235.nupkg.sha512",
+    "C:\\Users\\Binhh\\.nuget\\packages\\microsoft.servicefabric.actors\\5.2.1235\\microsoft.servicefabric.actors.5.2.1235.nupkg.sha512",
+    "C:\\Users\\Binhh\\.nuget\\packages\\microsoft.servicefabric.data\\5.2.1235\\microsoft.servicefabric.data.5.2.1235.nupkg.sha512",
+    "C:\\Users\\Binhh\\.nuget\\packages\\microsoft.servicefabric.data.extensions\\5.2.1235\\microsoft.servicefabric.data.extensions.5.2.1235.nupkg.sha512",
+    "C:\\Users\\Binhh\\.nuget\\packages\\microsoft.servicefabric.data.interfaces\\5.2.1235\\microsoft.servicefabric.data.interfaces.5.2.1235.nupkg.sha512",
+    "C:\\Users\\Binhh\\.nuget\\packages\\microsoft.servicefabric.diagnostics.internal\\5.2.1235\\microsoft.servicefabric.diagnostics.internal.5.2.1235.nupkg.sha512",
+    "C:\\Users\\Binhh\\.nuget\\packages\\microsoft.servicefabric.fabrictransport.internal\\5.2.1235\\microsoft.servicefabric.fabrictransport.internal.5.2.1235.nupkg.sha512",
+    "C:\\Users\\Binhh\\.nuget\\packages\\microsoft.servicefabric.services\\5.2.1235\\microsoft.servicefabric.services.5.2.1235.nupkg.sha512",
+    "C:\\Users\\Binhh\\.nuget\\packages\\microsoft.servicefabric.services.remoting\\5.2.1235\\microsoft.servicefabric.services.remoting.5.2.1235.nupkg.sha512",
+    "C:\\Users\\Binhh\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9529eb57-dcf8-4e95-a092-d082960f59f0": {
+      "ProjectGuid": "9529eb57-dcf8-4e95-a092-d082960f59f0",
+      "DisplayName": "GroupStudent",
+      "ColorIndex": 0
+    },
+    "186f222f-556f-4bdd-8817-5b97be4db450": {
+      "ProjectGuid": "186f222f-556f-4bdd-8817-5b97be4db450",
+      "DisplayName": "StudentWebUI",
+      "ColorIndex": 1
+    },
+    "6b460576-bb6b-4f55-9a9d-0187d739e6ae": {
+      "ProjectGuid": "6b460576-bb6b-4f55-9a9d-0187d739e6ae",
+      "DisplayName": "StudentActor",
+      "ColorIndex": 2
+    },
+    "60c21b08-27f2-4ba4-9139-e13ade0c28ac": {
+      "ProjectGuid": "60c21b08-27f2-4ba4-9139-e13ade0c28ac",
+      "DisplayName": "StudentActor.Interfaces",
+      "ColorIndex": 3
+    },
+    "86ab7b1e-7c36-4f90-985e-308b52c202ca": {
+      "ProjectGuid": "86ab7b1e-7c36-4f90-985e-308b52c202ca",
+      "DisplayName": "GroupStudent.Interfaces",
+      "ColorIndex": 4
+    },
+    "73088360-41c0-40e7-992c-bf487f01d4a4": {
+      "ProjectGuid": "73088360-41c0-40e7-992c-bf487f01d4a4",
+      "DisplayName": "StudentDomain",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "37a23cae-6e4d-44cc-b6a6-ba653a6fd082": {
+      "ProjectGuid": "37a23cae-6e4d-44cc-b6a6-ba653a6fd082",
+      "DisplayName": "Subjects",
+      "ColorIndex": 6
+    },
+    "447109ff-cb56-4fed-bf8c-b833096c1cb8": {
+      "ProjectGuid": "447109ff-cb56-4fed-bf8c-b833096c1cb8",
+      "DisplayName": "StudentServiceFabric",
+      "ColorIndex": 7
+    },
+    "2aaa5db2-0ef2-4783-9eeb-99e166147a43": {
+      "ProjectGuid": "2aaa5db2-0ef2-4783-9eeb-99e166147a43",
+      "DisplayName": "Student.Subjects",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

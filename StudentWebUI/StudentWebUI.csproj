@@ -9,6 +9,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Interfaces\**" />
+    <Content Remove="Interfaces\**" />
+    <EmbeddedResource Remove="Interfaces\**" />
+    <None Remove="Interfaces\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.SpaServices" Version="3.1.20" />
     <PackageReference Include="Microsoft.AspNetCore.SpaServices.Extensions" Version="3.1.20" />
     <PackageReference Include="Microsoft.ServiceFabric.AspNetCore.Kestrel" Version="5.2.1235" />
@@ -24,7 +31,7 @@
 
   <ItemGroup>
     <Folder Include="ClientApp\" />
-    <Folder Include="Interfaces\" />
+    <Folder Include="Interface\" />
   </ItemGroup>
 
 
